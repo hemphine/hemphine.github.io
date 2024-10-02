@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hemphine.github.io/sitemap.html.gz
+Sitemap: https://hemphine.github.io/app/sitemap.html.gz
+Sitemap: https://hemphine.github.io/assets/sitemap.html.gz
+Sitemap: https://hemphine.github.io/css/sitemap.html.gz
+Sitemap: https://hemphine.github.io/data/sitemap.html.gz
+Sitemap: https://hemphine.github.io/includes/sitemap.html.gz
+Sitemap: https://hemphine.github.io/item/sitemap.html.gz
+Sitemap: https://hemphine.github.io/src/sitemap.html.gz
